@@ -40,7 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
     TextStyle silenceStyle = const TextStyle(fontWeight: FontWeight.normal, fontSize: 16, color: Colors.white70);
 
     //* URI paths Linklerini yol olarak buraya ekle
-    final Uri defaultLink = Uri(scheme: 'https', host: 'biyyikcomlinks.wep.app', path: '/');
+    final Uri defaultLink = Uri(scheme: 'https', host: 'www.instagram.com', path: '/nsyasiyor');
 
     return Scaffold(
       backgroundColor: Colors.black,
